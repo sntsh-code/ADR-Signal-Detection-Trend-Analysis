@@ -1,0 +1,66 @@
+primaryid$caseid$drug_seq$role_cod$drugname$prod_ai$val_vbm$route$dose_vbm$cum_dose_chr$cum_dose_unit$dechal$rechal$lot_num$exp_dt$nda_num$dose_amt$dose_unit$dose_form$dose_freq
+100236273$10023627$1$PS$RISPERDAL$RISPERIDONE$1$Oral$$$$$U$Unknown$$020272$$$Film-coated tablet$
+100236273$10023627$2$SS$RISPERDAL$RISPERIDONE$1$$$$$$U$$$020272$$$$
+100236273$10023627$3$SS$TENEX$GUANFACINE HYDROCHLORIDE$1$Unknown$$$$U$$Unknown$$$$$Unknown$
+1015648244$10156482$1$PS$ACTEMRA$TOCILIZUMAB$1$Intravenous (not otherwise specified)$$$$$$B2013B161$$125276$600$MG$Solution for infusion$
+1015648244$10156482$2$SS$ACTEMRA$TOCILIZUMAB$1$Intravenous (not otherwise specified)$$$$$$Asked But Unknown$$125276$560$MG$Solution for infusion$
+1015648244$10156482$3$SS$ACTEMRA$TOCILIZUMAB$1$Intravenous (not otherwise specified)$$$$$$Asked But Unknown$$125276$560$MG$Solution for infusion$
+1015648244$10156482$4$SS$ACTEMRA$TOCILIZUMAB$1$Intravenous (not otherwise specified)$$$$$$Asked But Unknown$$125276$400$MG$Solution for infusion$
+1015648244$10156482$5$SS$ACTEMRA$TOCILIZUMAB$1$Intravenous (not otherwise specified)$$$$$$Asked But Unknown$$125276$480$MG$Solution for infusion$
+1015648244$10156482$6$SS$ACTEMRA$TOCILIZUMAB$1$Intravenous (not otherwise specified)$$$$$$Asked But Unknown$$125276$520$MG$Solution for infusion$
+1015648244$10156482$7$SS$ACTEMRA$TOCILIZUMAB$1$Intravenous (not otherwise specified)$$$$$$B2098B02$$125276$560$MG$Solution for infusion$
+1015648244$10156482$8$SS$ACTEMRA$TOCILIZUMAB$1$Intravenous (not otherwise specified)$$$$$$Asked But Unknown$$125276$560$MG$Solution for infusion$
+1015648244$10156482$9$SS$ACTEMRA$TOCILIZUMAB$1$Intravenous (not otherwise specified)$$$$$$B3032B04$$125276$$$$
+1015648244$10156482$10$SS$ACTEMRA$TOCILIZUMAB$1$Intravenous (not otherwise specified)$$$$$$B5009B01$$125276$$$$
+1015648244$10156482$11$SS$ACTEMRA$TOCILIZUMAB$1$Intravenous (not otherwise specified)$$$$$$B2035$$125276$$$$
+1015648244$10156482$12$SS$ACTEMRA$TOCILIZUMAB$1$Intravenous (not otherwise specified)$$$$$$B2038B093$$125276$$$$
+1015648244$10156482$13$SS$ACTEMRA$TOCILIZUMAB$1$Intravenous (not otherwise specified)$$$$$$B2055$$125276$$$$
+1015648244$10156482$14$SS$ACTEMRA$TOCILIZUMAB$1$Intravenous (not otherwise specified)$$$$$$B5008B09$$125276$$$$
+1015648244$10156482$15$SS$ACTEMRA$TOCILIZUMAB$1$Intravenous (not otherwise specified)$$$$$$B2036$$125276$$$$
+1015648244$10156482$16$SS$ACTEMRA$TOCILIZUMAB$1$Intravenous (not otherwise specified)$$$$$$B3038B18$$125276$$$$
+1015648244$10156482$17$SS$ACTEMRA$TOCILIZUMAB$1$Intravenous (not otherwise specified)$$$$$$B3038B18$$125276$$$$
+1015648244$10156482$18$SS$ACTEMRA$TOCILIZUMAB$1$Intravenous (not otherwise specified)$$$$$$B3033B14$$125276$$$$
+1015648244$10156482$19$SS$ACTEMRA$TOCILIZUMAB$1$Intravenous (not otherwise specified)$$$$$$B3039B07$$125276$$$$
+1015648244$10156482$20$SS$ACTEMRA$TOCILIZUMAB$1$Intravenous (not otherwise specified)$$$$$$B3033B27$$125276$$$$
+1015648244$10156482$21$SS$ACTEMRA$TOCILIZUMAB$1$Intravenous (not otherwise specified)$$$$$$B3033B14$$125276$$$$
+1015648244$10156482$22$SS$ACTEMRA$TOCILIZUMAB$1$Intravenous (not otherwise specified)$$$$$$B3034B25$$125276$$$$
+1015648244$10156482$23$SS$ACTEMRA$TOCILIZUMAB$1$Intravenous (not otherwise specified)$$$$$$B2044$$125276$$$$
+1015648244$10156482$24$SS$ACTEMRA$TOCILIZUMAB$1$Intravenous (not otherwise specified)$$$$$$B3045B09$$125276$$$$
+1015648244$10156482$25$SS$ACTEMRA$TOCILIZUMAB$1$Intravenous (not otherwise specified)$$$$$$8208B10$$125276$$$$
+1015648244$10156482$26$SS$ACTEMRA$TOCILIZUMAB$1$Intravenous (not otherwise specified)$$$$$$B2073B05$$125276$$$$
+1015648244$10156482$27$SS$ACTEMRA$TOCILIZUMAB$1$Intravenous (not otherwise specified)$$$$$$B2027$$125276$$$$
+1015648244$10156482$28$SS$ACTEMRA$TOCILIZUMAB$1$Intravenous (not otherwise specified)$$$$$$B3033B27$$125276$$$$
+1015648244$10156482$29$SS$ACTEMRA$TOCILIZUMAB$1$Intravenous (not otherwise specified)$$$$$$B3050B03$$125276$$$$
+1015648244$10156482$30$SS$ACTEMRA$TOCILIZUMAB$1$Intravenous (not otherwise specified)$$$$$$B2027B04$$125276$$$$
+1015648244$10156482$31$SS$ACTEMRA$TOCILIZUMAB$1$Intravenous (not otherwise specified)$$$$$$B2028$$125276$$$$
+1015648244$10156482$32$SS$ACTEMRA$TOCILIZUMAB$1$Intravenous (not otherwise specified)$$$$$$B4012B22$$125276$$$$
+1015648244$10156482$33$SS$ACTEMRA$TOCILIZUMAB$1$Intravenous (not otherwise specified)$$$$$$B3038B18$$125276$$$$
+1015648244$10156482$34$SS$ACTEMRA$TOCILIZUMAB$1$Intravenous (not otherwise specified)$$$$$$B4024B15$$125276$$$$
+1015648244$10156482$35$SS$ACTEMRA$TOCILIZUMAB$1$Intravenous (not otherwise specified)$$$$$$B305B09$$125276$$$$
+1015648244$10156482$36$SS$ACTEMRA$TOCILIZUMAB$1$Intravenous (not otherwise specified)$$$$$$B5009B12$$125276$$$$
+1015648244$10156482$37$SS$ACTEMRA$TOCILIZUMAB$1$Intravenous (not otherwise specified)$$$$$$B2033$$125276$$$$
+1015648244$10156482$38$SS$ACTEMRA$TOCILIZUMAB$1$Intravenous (not otherwise specified)$$$$$$B3042B03$$125276$$$$
+1015648244$10156482$39$SS$ACTEMRA$TOCILIZUMAB$1$Intravenous (not otherwise specified)$$$$$$B2043B17$$125276$$$$
+1015648244$10156482$40$SS$ACTEMRA$TOCILIZUMAB$1$Intravenous (not otherwise specified)$$$$$$B2053$$125276$$$$
+1015648244$10156482$41$SS$ACTEMRA$TOCILIZUMAB$1$Intravenous (not otherwise specified)$$$$$$82047B07$$125276$$$$
+1015648244$10156482$42$SS$ACTEMRA$TOCILIZUMAB$1$Intravenous (not otherwise specified)$$$$$$B2024B203$$125276$$$$
+1015648244$10156482$43$SS$ACTEMRA$TOCILIZUMAB$1$Intravenous (not otherwise specified)$$$$$$B3037B02$$125276$$$$
+1015648244$10156482$44$SS$ACTEMRA$TOCILIZUMAB$1$Intravenous (not otherwise specified)$$$$$$B2077805$$125276$$$$
+1015648244$10156482$45$SS$ACTEMRA$TOCILIZUMAB$1$Intravenous (not otherwise specified)$$$$$$B5008B03$$125276$$$$
+1015648244$10156482$46$SS$ACTEMRA$TOCILIZUMAB$1$Intravenous (not otherwise specified)$$$$$$B2049$$125276$$$$
+1015648244$10156482$47$SS$ACTEMRA$TOCILIZUMAB$1$Intravenous (not otherwise specified)$$$$$$B2043$$125276$$$$
+1015648244$10156482$48$SS$ACTEMRA$TOCILIZUMAB$1$Intravenous (not otherwise specified)$$$$$$B3032B03$$125276$$$$
+1015648244$10156482$49$SS$ACTEMRA$TOCILIZUMAB$1$Intravenous (not otherwise specified)$$$$$$B5008B01$$125276$$$$
+1015648244$10156482$50$SS$PREDNISONE$PREDNISONE$1$Unknown$$$$U$$Unknown$$$$$$
+1015648244$10156482$51$SS$LEFLUNOMIDE$LEFLUNOMIDE$1$Oral$$$$U$$Unknown$$$20$MG$$
+1015648244$10156482$52$SS$LEFLUNOMIDE$LEFLUNOMIDE$1$Unknown$$$$U$$Unknown$$$10$MG$$QD
+1015648244$10156482$53$C$ARAVA$LEFLUNOMIDE$1$$$$$$$$$$20$MG$$QD
+1015648244$10156482$54$C$ARAVA$LEFLUNOMIDE$1$$$$$$$$$$600$MG$$
+1015648244$10156482$55$C$IRBESARTAN$IRBESARTAN$1$$$$$$$$$$$$$
+1015648244$10156482$56$C$METOPROLOL$METOPROLOL$1$$$$$$$$$$$$$
+1015648244$10156482$57$C$INFLUENZA VIRUS VACCINE$INFLUENZA VIRUS VACCINE$1$$$$$$$$$$$$$
+1016133066$10161330$1$PS$ACTEMRA$TOCILIZUMAB$1$Intravenous (not otherwise specified)$Drug Dose First Administered is 528 Mg milligram(s)$$$Y$$B20192$$$$$$
+1016133066$10161330$2$SS$ACTEMRA$TOCILIZUMAB$1$Intravenous (not otherwise specified)$Drug Dose First Administered is 526 Mg milligram(s)$$$Y$$B20212$$$526$MG$Solution for infusion$
+1016133066$10161330$3$SS$ACTEMRA$TOCILIZUMAB$1$Intravenous (not otherwise specified)$Drug Dose First Administered is 552 Mg milligram(s)$$$Y$$B20262$$$552$MG$Solution for infusion$
+1016133066$10161330$4$SS$ACTEMRA$TOCILIZUMAB$1$Intravenous (not otherwise specified)$Drug Dose First Administered is 276 Mg milligram(s)$$$Y$$B20162$$$276$MG$Solution for infusion$
+1016133066$10161330$5$SS$ACTEMRA$TOCILIZUMAB$1$Intravenous (not otherwise specified)$Drug Dose First Administered is 405 Mg milligram(s)$$$Y$$B2027$$$405$MG$Solution for infusion$
