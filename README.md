@@ -5,7 +5,6 @@ ADR Signal Detection & Trend Analysis
 =====================================
 -------------------------------------
 
-########################################################################
 Welcome to **ADR Signal Detection & Trend Analysis Project** repository!
 
 This project is based on the original FAERS (FDA Adverse Event Reporting System) dataset of Q2 2025, a real-world source of adverse drug reaction (ADR) reports submitted to the FDA. The dataset has been curated and cleaned to support educational and analytical purposes, enabling signal detection, trend analysis, and data-driven insights in pharmacovigilance.
