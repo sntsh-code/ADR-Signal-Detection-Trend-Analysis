@@ -75,5 +75,5 @@ This dataset is a real-world dataset derived from the FDA Adverse Event Reportin
 --------
 About Me
 --------
-Hi, I’m Santosh – a Pharmacist and Pharmacovigilance specialist with expertise in drug safety, data analytics, and adverse event reporting. I work at the intersection of healthcare and data, using Python, SQL, and visualization tools to generate actionable insights that improve patient safety. I’m passionate about pharmacovigilance, regulatory compliance, and building data-driven healthcare projects.
+Hi, I’m Santosh – Healthcare Data Analytics and Pharmacovigilance specialist with expertise in drug safety, data analytics, and adverse event reporting. I work at the intersection of healthcare and data, using Python, SQL, and visualization tools to generate actionable insights that improve patient safety. I’m passionate about pharmacovigilance, regulatory compliance, and building data-driven healthcare projects.
 
